@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/ammu/Desktop/Scala/MatrixMultiply/target/scala-2.11/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$MatrixMultiply$$multiply$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$MatrixMultiply$$multiply$1$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$MatrixMultiply$$multiply$1$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$random2dArray$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$MatrixMultiply$$multiply$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$MatrixMultiply$$multiply$1$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$MatrixMultiply$$multiply$1$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$random2dArray$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$MatrixMultiply$$multiply$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$MatrixMultiply$$multiply$1$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$MatrixMultiply$$multiply$1$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$random2dArray$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatrixMultiply$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/ammu/Desktop/Scala/MatrixMultiply/target/scala-2.11/classes.bak[0m

@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(f03401da-24c3-44c1-ae98-89ee77a304de), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/ammu/Desktop/Scala/MatrixMultiply/target/scala-2.11/classes ...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 15 s, completed Apr 30, 2021, 7:01:04 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
